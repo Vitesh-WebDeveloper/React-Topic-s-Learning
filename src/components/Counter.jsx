@@ -51,7 +51,7 @@ const Counter = () => {
       <button onClick={stop}>Stop</button>
       <button onClick={reset}>Reset</button> */}
 {/* 
-      <h1 ref = {a}>hollllaaa</h1>
+      <h1 ref = {a}>hola</h1>
       <button onClick={changeColor}>clickme</button> */}
       
     </div>
