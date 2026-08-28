@@ -1,1 +1,1 @@
-Gone through AI for learning topics.
+Gone through AI for learning topics
