@@ -11,7 +11,7 @@ const Counter = () => {
 //     console.log(`hi im in console just because of useRef`, a.current);
 //     alert(a.current)
     
-// SetCount(count / 2);
+// SetCount(count % 2);
 // }
 
 
