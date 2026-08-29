@@ -3,7 +3,8 @@ import { useRef } from 'react';
 import { useState } from 'react'
 // import { useEffect } from 'react';
 
-const Counter = () => {
+const Counter = () => 
+  {
 
 // let handlefn = () =>  {
 //     a.current = a.current + 10;
